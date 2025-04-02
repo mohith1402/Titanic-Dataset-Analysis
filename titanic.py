@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 import numpy as np
 
-titanic_data = pd.read_csv('tested.csv')  # I hope this is the right file name!
+titanic_data = pd.read_csv('tested.csv')  
 
 print("--- First 5 rows ---")
 print(titanic_data.head())  # This shows the first few rows
